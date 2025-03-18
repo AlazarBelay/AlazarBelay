@@ -24,6 +24,10 @@ Developed a real-time options trading model using Python and pandas for portfoli
 Leveraged Black-Scholes pricing algorithms and machine learning techniques
 Analyzed market volatility patterns for improved decision making
 
+## Car-Dataset-to-model-car-prices-and-predict
+
+This project analyzes a used car dataset to model car prices and predict whether a vehicle is being sold by its first owner. Through data cleaning, exploratory data analysis, and statistical modeling, the researcher identified key factors influencing car prices, with the final linear regression model explaining 82.72% of price variability (adjusted R-squared of 80.08%). The analysis revealed significant relationships between price and variables such as year, mileage, and engine size, with newer cars commanding higher prices and increased mileage correlating with lower values. The logistic regression model predicting first-owner status was also highly effective, achieving a low AIC value of 399.21. Despite some non-linearity in residuals suggesting potential model improvements, the overall findings provide valuable insights into the used car market dynamics and demonstrate how various features can effectively predict both pricing and ownership patterns.
+
 ## Machine Learning for Retail Analytics
 
 Conducted research on implementing advanced ML algorithms (Random Forest, XGBoost, LSTM networks)
